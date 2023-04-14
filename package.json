@@ -1,0 +1,25 @@
+{
+  "name": "fasaan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "yarn --cwd ./backend start",
+    "dev" : "concurrently --kill-others \"yarn --cwd ./analysis build-watch\" \"yarn --cwd ./frontend start\" \"yarn --cwd ./backend dev\"",
+    "frontend": "concurrently --kill-others \"yarn --cwd ./analysis build-watch\" \"yarn --cwd ./frontend start\"",
+    "backend" : "yarn --cwd ./backend dev",
+    "build" : "yarn install --production=false && yarn --cwd ./backend build",
+    "build-frontend": "yarn install --production=false && yarn --cwd ./analysis build && yarn --cwd ./frontend build"
+  },
+  "author": "trulyronak",
+  "license": "ISC",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend",
+    "analysis"
+  ],
+  "dependencies": {
+    "concurrently": "^6.0.2"
+  }
+}
