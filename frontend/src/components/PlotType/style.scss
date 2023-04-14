@@ -1,0 +1,92 @@
+.plot-type {
+  position: absolute;
+  bottom: 0;
+  height: 44vh;
+  left: calc(52vw + 1200px);
+  width: 28vw;
+
+  .filter {
+    margin: auto;
+    margin-top: 10px;
+    position: relative;
+    width: 95%;
+  
+    .select {
+      position: absolute;
+      top: 0;
+      right: 0;
+    } 
+  }
+
+  .heading {
+    align-items: center;
+    display: flex;
+
+    .text {
+      margin-left: 10px;
+
+      h1 {
+        font-size: 36px;
+        font-weight: 500;
+        line-height: 100%;
+        margin: 0;
+      }
+
+      h2 {
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 100%;
+        margin: 0;
+      }
+    }
+  }
+
+  .search-bar {
+    align-items: center;
+    display: flex;
+    position: relative;
+    margin-top: 15px;
+    right: -2.5%;
+
+    img {
+      left: 10px;
+      position: absolute;
+      width: 24px;
+    }
+
+    input {
+      background: #F9F9F9;
+      border: none;
+      border-radius: 6px;
+      color: #333333;
+      font-size: 18px;
+      padding: 10px 20px 10px 44px;
+      width: 95%;
+
+      &:focus{
+        outline: none;
+      }
+    }
+  }
+
+  .plots {
+    bottom: 0;
+    height: 26vh;
+    margin: auto;
+    margin-top: 20px;
+    overflow: scroll;
+    padding: 10px 2.5%;
+    position: absolute;
+    scrollbar-width: none;
+    width: 100%;
+    -ms-overflow-style: none;
+
+    .plot {
+      opacity: 100;
+    }
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+}

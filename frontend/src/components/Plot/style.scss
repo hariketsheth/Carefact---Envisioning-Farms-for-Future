@@ -1,0 +1,42 @@
+.plot {
+  align-items: center;
+  background-repeat: no-repeat;
+  background-position: right; 
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+  display: flex;
+  height: 65px;
+  margin-bottom: 10px;
+  padding: 0 20px;
+  width: 100%;
+  background-size: cover;
+
+
+  img {
+    width: 35px;
+    margin-right: 10px;
+  }
+
+  .section {
+    margin-right: 2%;
+    white-space: nowrap;
+    width: 30%;
+
+    h1 {
+      color: white;
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 100%;
+      margin: 0;
+    }
+
+    h2 {
+      color: white;
+      font-size: 16px;
+      font-weight: 300;
+      line-height: 100%;
+      margin: 0;
+    }
+  }
+}
