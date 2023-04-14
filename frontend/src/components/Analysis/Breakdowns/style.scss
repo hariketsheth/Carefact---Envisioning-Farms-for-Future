@@ -1,0 +1,57 @@
+.Breakdowns {
+  display: inline-block;
+  background: #f9f9f9;
+  border: 1px solid #dfdfdf;
+  box-sizing: border-box;
+  border-radius: 4.35px;
+  height: 17vh;
+  width: 26.8vw;
+  margin-top: 2vh;
+  margin-left: 1.4vw;
+  padding: 5px 10px;
+  overflow: scroll;
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+  h3 {
+    font-size: 18px;
+  }
+
+  .subtitle {
+    margin: 0px;
+    margin-bottom: 12px;
+    line-height: 0px;
+  }
+  
+
+  h1 {
+    font-size: 5em;
+  }
+
+  .row {
+    display: flex;
+    justify-content: space-between;
+
+    .grade {
+      width: 30%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .explanation {
+      width: 65%;
+      margin-top: 12px;
+    }
+  }
+
+  .gradient {
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+  }
+}
+
+.Breakdowns::-webkit-scrollbar {
+  display: none;
+}

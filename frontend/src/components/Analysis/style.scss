@@ -1,0 +1,87 @@
+.analysis {
+  position: absolute;
+  top: 10vh;
+  height: 50vh;
+  left: calc(52vw + 1200px);
+  width: 48vw;
+
+  .cards {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .heading {
+    align-items: center;
+    display: flex;
+
+    .text {
+      margin-left: 10px;
+
+      h1 {
+        font-size: 36px;
+        font-weight: 500;
+        line-height: 100%;
+        margin: 0;
+      }
+
+      h2 {
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 100%;
+        margin: 0;
+      }
+    }
+  }
+
+  .air-quality {
+    display: inline-block;
+    opacity: 0;
+    background: #F9F9F9;
+    border: 1px solid #DFDFDF;
+    box-sizing: border-box;
+    border-radius: 4.35px;
+    height: 17vh;
+    width: 17.4vw;
+    margin-top: calc(2vh + 10px);
+    margin-left: .6vw;
+    padding: 5px 10px;
+    overflow: scroll;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+
+    h3 {
+      font-size: 18px;
+    }
+
+    .section {
+      position: relative;
+      width: 100%;
+      p {
+        margin: 0px 0;
+        line-height: 100%;
+      }
+
+      .score {
+        right: 0;
+        top: 0;
+        position: absolute;
+        margin: 0;
+      }
+
+      hr {
+        border: 1px solid #DFDFDF;
+      }
+    }
+  }
+
+  .Breakdowns {
+    opacity: 0;
+    position: relative;
+  }
+}
