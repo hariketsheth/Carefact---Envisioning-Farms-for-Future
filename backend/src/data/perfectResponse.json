@@ -1,0 +1,1102 @@
+{
+    "lat": "42.0434796",
+    "lng": "-92.0717042",
+    "insights": {
+        "airQuality": {
+            "message": "success",
+            "stations": [
+                {
+                    "CO": 0.3184766666666667,
+                    "NO2": 0.259,
+                    "OZONE": 49.617,
+                    "PM10": 65.801,
+                    "PM25": 6.9,
+                    "SO2": 12.214,
+                    "city": "IA",
+                    "countryCode": "US",
+                    "division": "Benton",
+                    "lat": 42.0194,
+                    "lng": -92.1046,
+                    "placeName": "Van Horne",
+                    "postalCode": "52346",
+                    "state": "Iowa",
+                    "updatedAt": "2021-04-16T00:00:00.000Z",
+                    "AQI": 56,
+                    "aqiInfo": {
+                        "pollutant": "PM10",
+                        "concentration": 65.801,
+                        "category": "Moderate"
+                    }
+                }
+            ]
+        },
+        "fireLatest": {
+            "message": "success",
+            "data": [
+                {
+                    "lat": 41.98082,
+                    "lng": -91.7528,
+                    "confidence": "nominal",
+                    "frp": 3.2,
+                    "detection_time": "2021-04-16T19:06:00.000Z",
+                    "distance": 16.935239329274477
+                }
+            ]
+        },
+        "pollenForecast": {
+            "message": "success",
+            "lat": 42.0434796,
+            "lng": -92.0717042,
+            "data": [
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 336,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618696800
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 356,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618700400
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 0,
+                        "tree_pollen": 200,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "Moderate",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618704000
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 0,
+                        "tree_pollen": 207,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "Moderate",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618707600
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 307,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618711200
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 316,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618714800
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 310,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618718400
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 309,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618722000
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 312,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618725600
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 307,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618729200
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 314,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618732800
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 305,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618736400
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 316,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618740000
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 310,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618743600
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 309,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618747200
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 314,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618750800
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 0,
+                        "tree_pollen": 200,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "Moderate",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618754400
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 0,
+                        "tree_pollen": 207,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "Moderate",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618758000
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 0,
+                        "tree_pollen": 198,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "Moderate",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618761600
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 382,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618765200
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 367,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618768800
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 366,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618772400
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 369,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618776000
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 364,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618779600
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 371,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618783200
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 371,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618786800
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 395,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618790400
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 386,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618794000
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 377,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618797600
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 377,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618801200
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 367,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618804800
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 370,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618808400
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 365,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618812000
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 383,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618815600
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 386,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618819200
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 0,
+                        "tree_pollen": 210,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618822800
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 391,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618826400
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 376,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618830000
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 291,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618833600
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 336,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618837200
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 293,
+                        "weed_pollen": 1
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618840800
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 363,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618844400
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 374,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618848000
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 368,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618851600
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 367,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618855200
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 370,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618858800
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 365,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618862400
+                },
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 372,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "time": 1618866000
+                }
+            ]
+        },
+        "soilLatest": {
+            "message": "success",
+            "data": [
+                {
+                    "scantime": "2021-04-13 19:56:38Z",
+                    "soil_temperature": 11.650018310546898,
+                    "soil_moisture": 30
+                }
+            ]
+        },
+        "waterVaporLatest": {
+            "message": "Data not available!",
+            "data": []
+        },
+        "weatherForecast": {
+            "message": "success",
+            "data": {
+                "lat": 42.0434796,
+                "lng": -92.0717042,
+                "forecast": [
+                    {
+                        "time": 1618635600,
+                        "summary": "Partly cloudy throughout the day.",
+                        "icon": "partly-cloudy-day",
+                        "sunriseTime": 1618658700,
+                        "sunsetTime": 1618707180,
+                        "moonPhase": 0.18,
+                        "precipIntensity": 0.0193,
+                        "precipIntensityMax": 0.0461,
+                        "precipIntensityMaxTime": 1618721100,
+                        "precipProbability": 0.1,
+                        "precipType": "rain",
+                        "temperatureHigh": 16.68,
+                        "temperatureHighTime": 1618690260,
+                        "temperatureLow": 4.31,
+                        "temperatureLowTime": 1618746120,
+                        "apparentTemperatureHigh": 16.4,
+                        "apparentTemperatureHighTime": 1618690260,
+                        "apparentTemperatureLow": 2.81,
+                        "apparentTemperatureLowTime": 1618746180,
+                        "dewPoint": 0.76,
+                        "humidity": 0.53,
+                        "pressure": 1015.8,
+                        "windSpeed": 3.51,
+                        "windGust": 6.93,
+                        "windGustTime": 1618693560,
+                        "windBearing": 357,
+                        "cloudCover": 0.63,
+                        "uvIndex": 5,
+                        "uvIndexTime": 1618683300,
+                        "visibility": 16.093,
+                        "ozone": 386.5,
+                        "temperatureMin": 5.13,
+                        "temperatureMinTime": 1618657980,
+                        "temperatureMax": 16.68,
+                        "temperatureMaxTime": 1618690260,
+                        "apparentTemperatureMin": 3.27,
+                        "apparentTemperatureMinTime": 1618658280,
+                        "apparentTemperatureMax": 16.4,
+                        "apparentTemperatureMaxTime": 1618690260
+                    },
+                    {
+                        "time": 1618722000,
+                        "summary": "Partly cloudy throughout the day.",
+                        "icon": "partly-cloudy-day",
+                        "sunriseTime": 1618744980,
+                        "sunsetTime": 1618793640,
+                        "moonPhase": 0.21,
+                        "precipIntensity": 0.0079,
+                        "precipIntensityMax": 0.0444,
+                        "precipIntensityMaxTime": 1618722000,
+                        "precipProbability": 0.06,
+                        "precipType": "rain",
+                        "temperatureHigh": 16.29,
+                        "temperatureHighTime": 1618786380,
+                        "temperatureLow": 3.85,
+                        "temperatureLowTime": 1618833600,
+                        "apparentTemperatureHigh": 16.01,
+                        "apparentTemperatureHighTime": 1618786380,
+                        "apparentTemperatureLow": 0.51,
+                        "apparentTemperatureLowTime": 1618833600,
+                        "dewPoint": 2.44,
+                        "humidity": 0.58,
+                        "pressure": 1014.5,
+                        "windSpeed": 3.61,
+                        "windGust": 10.79,
+                        "windGustTime": 1618806900,
+                        "windBearing": 281,
+                        "cloudCover": 0.57,
+                        "uvIndex": 5,
+                        "uvIndexTime": 1618769100,
+                        "visibility": 16.093,
+                        "ozone": 370.8,
+                        "temperatureMin": 4.31,
+                        "temperatureMinTime": 1618746120,
+                        "temperatureMax": 16.29,
+                        "temperatureMaxTime": 1618786380,
+                        "apparentTemperatureMin": 2.81,
+                        "apparentTemperatureMinTime": 1618746180,
+                        "apparentTemperatureMax": 16.01,
+                        "apparentTemperatureMaxTime": 1618786380
+                    },
+                    {
+                        "time": 1618808400,
+                        "summary": "Overcast throughout the day.",
+                        "icon": "rain",
+                        "sunriseTime": 1618831320,
+                        "sunsetTime": 1618880100,
+                        "moonPhase": 0.24,
+                        "precipIntensity": 0.1312,
+                        "precipIntensityMax": 0.3925,
+                        "precipIntensityMaxTime": 1618888860,
+                        "precipProbability": 0.54,
+                        "precipType": "rain",
+                        "temperatureHigh": 7.99,
+                        "temperatureHighTime": 1618855500,
+                        "temperatureLow": 0.66,
+                        "temperatureLowTime": 1618919160,
+                        "apparentTemperatureHigh": 4.55,
+                        "apparentTemperatureHighTime": 1618855560,
+                        "apparentTemperatureLow": -2.76,
+                        "apparentTemperatureLowTime": 1618919820,
+                        "dewPoint": 2.48,
+                        "humidity": 0.79,
+                        "pressure": 1015.5,
+                        "windSpeed": 4.92,
+                        "windGust": 10.7,
+                        "windGustTime": 1618808400,
+                        "windBearing": 344,
+                        "cloudCover": 0.82,
+                        "uvIndex": 3,
+                        "uvIndexTime": 1618855500,
+                        "visibility": 16.045,
+                        "ozone": 375.1,
+                        "temperatureMin": 2.67,
+                        "temperatureMinTime": 1618894800,
+                        "temperatureMax": 9.94,
+                        "temperatureMaxTime": 1618808400,
+                        "apparentTemperatureMin": -0.27,
+                        "apparentTemperatureMinTime": 1618894800,
+                        "apparentTemperatureMax": 7.28,
+                        "apparentTemperatureMaxTime": 1618808400
+                    },
+                    {
+                        "time": 1618894800,
+                        "summary": "Light rain (with a chance of 1–4 cm. of snow) in the morning and afternoon.",
+                        "icon": "rain",
+                        "sunriseTime": 1618917600,
+                        "sunsetTime": 1618966560,
+                        "moonPhase": 0.28,
+                        "precipIntensity": 0.3639,
+                        "precipIntensityMax": 0.7645,
+                        "precipIntensityMaxTime": 1618937220,
+                        "precipProbability": 0.87,
+                        "precipType": "rain",
+                        "temperatureHigh": 5.51,
+                        "temperatureHighTime": 1618959300,
+                        "temperatureLow": -1.73,
+                        "temperatureLowTime": 1619005200,
+                        "apparentTemperatureHigh": 2.31,
+                        "apparentTemperatureHighTime": 1618961040,
+                        "apparentTemperatureLow": -4.56,
+                        "apparentTemperatureLowTime": 1619005500,
+                        "dewPoint": 0.41,
+                        "humidity": 0.85,
+                        "pressure": 1020.1,
+                        "windSpeed": 3.45,
+                        "windGust": 7.61,
+                        "windGustTime": 1618897860,
+                        "windBearing": 0,
+                        "cloudCover": 0.93,
+                        "uvIndex": 3,
+                        "uvIndexTime": 1618939020,
+                        "visibility": 15.062,
+                        "ozone": 408.1,
+                        "temperatureMin": -0.33,
+                        "temperatureMinTime": 1618981200,
+                        "temperatureMax": 5.51,
+                        "temperatureMaxTime": 1618959300,
+                        "apparentTemperatureMin": -2.98,
+                        "apparentTemperatureMinTime": 1618981200,
+                        "apparentTemperatureMax": 2.31,
+                        "apparentTemperatureMaxTime": 1618961040
+                    },
+                    {
+                        "time": 1618981200,
+                        "summary": "Overcast throughout the day.",
+                        "icon": "cloudy",
+                        "sunriseTime": 1619003940,
+                        "sunsetTime": 1619053020,
+                        "moonPhase": 0.31,
+                        "precipIntensity": 0.0187,
+                        "precipIntensityMax": 0.0852,
+                        "precipIntensityMaxTime": 1619029800,
+                        "precipProbability": 0.12,
+                        "precipType": "snow",
+                        "precipAccumulation": 0,
+                        "temperatureHigh": 9.33,
+                        "temperatureHighTime": 1619037780,
+                        "temperatureLow": -2.15,
+                        "temperatureLowTime": 1619088720,
+                        "apparentTemperatureHigh": 6.1,
+                        "apparentTemperatureHighTime": 1619032620,
+                        "apparentTemperatureLow": -6.47,
+                        "apparentTemperatureLowTime": 1619088840,
+                        "dewPoint": -2.32,
+                        "humidity": 0.67,
+                        "pressure": 1020.6,
+                        "windSpeed": 4.01,
+                        "windGust": 9.5,
+                        "windGustTime": 1619048880,
+                        "windBearing": 319,
+                        "cloudCover": 0.66,
+                        "uvIndex": 3,
+                        "uvIndexTime": 1619025900,
+                        "visibility": 16.093,
+                        "ozone": 415,
+                        "temperatureMin": -1.73,
+                        "temperatureMinTime": 1619005200,
+                        "temperatureMax": 9.33,
+                        "temperatureMaxTime": 1619037780,
+                        "apparentTemperatureMin": -4.56,
+                        "apparentTemperatureMinTime": 1619005500,
+                        "apparentTemperatureMax": 6.1,
+                        "apparentTemperatureMaxTime": 1619032620
+                    },
+                    {
+                        "time": 1619067600,
+                        "summary": "Clear throughout the day.",
+                        "icon": "clear-day",
+                        "sunriseTime": 1619090220,
+                        "sunsetTime": 1619139480,
+                        "moonPhase": 0.35,
+                        "precipIntensity": 0,
+                        "precipIntensityMax": 0,
+                        "precipIntensityMaxTime": 1619082540,
+                        "precipProbability": 0,
+                        "temperatureHigh": 17.63,
+                        "temperatureHighTime": 1619126580,
+                        "temperatureLow": 7.66,
+                        "temperatureLowTime": 1619178900,
+                        "apparentTemperatureHigh": 17.35,
+                        "apparentTemperatureHighTime": 1619126580,
+                        "apparentTemperatureLow": 6.11,
+                        "apparentTemperatureLowTime": 1619179200,
+                        "dewPoint": -1.62,
+                        "humidity": 0.53,
+                        "pressure": 1018.6,
+                        "windSpeed": 5.63,
+                        "windGust": 8.19,
+                        "windGustTime": 1619120100,
+                        "windBearing": 248,
+                        "cloudCover": 0.03,
+                        "uvIndex": 6,
+                        "uvIndexTime": 1619114520,
+                        "visibility": 16.093,
+                        "ozone": 401.3,
+                        "temperatureMin": -2.15,
+                        "temperatureMinTime": 1619088720,
+                        "temperatureMax": 17.63,
+                        "temperatureMaxTime": 1619126580,
+                        "apparentTemperatureMin": -6.47,
+                        "apparentTemperatureMinTime": 1619088840,
+                        "apparentTemperatureMax": 17.35,
+                        "apparentTemperatureMaxTime": 1619126580
+                    },
+                    {
+                        "time": 1619154000,
+                        "summary": "Overcast throughout the day.",
+                        "icon": "rain",
+                        "sunriseTime": 1619176560,
+                        "sunsetTime": 1619226000,
+                        "moonPhase": 0.38,
+                        "precipIntensity": 0.0662,
+                        "precipIntensityMax": 0.2526,
+                        "precipIntensityMaxTime": 1619188800,
+                        "precipProbability": 0.41,
+                        "precipType": "rain",
+                        "temperatureHigh": 15.77,
+                        "temperatureHighTime": 1619209620,
+                        "temperatureLow": 6.46,
+                        "temperatureLowTime": 1619263620,
+                        "apparentTemperatureHigh": 15.49,
+                        "apparentTemperatureHighTime": 1619209620,
+                        "apparentTemperatureLow": 4.33,
+                        "apparentTemperatureLowTime": 1619263320,
+                        "dewPoint": 8.83,
+                        "humidity": 0.88,
+                        "pressure": 1014.5,
+                        "windSpeed": 4.02,
+                        "windGust": 12.16,
+                        "windGustTime": 1619190420,
+                        "windBearing": 176,
+                        "cloudCover": 0.93,
+                        "uvIndex": 3,
+                        "uvIndexTime": 1619201220,
+                        "visibility": 16.031,
+                        "ozone": 387.9,
+                        "temperatureMin": 7.66,
+                        "temperatureMinTime": 1619178900,
+                        "temperatureMax": 15.77,
+                        "temperatureMaxTime": 1619209620,
+                        "apparentTemperatureMin": 6.11,
+                        "apparentTemperatureMinTime": 1619179620,
+                        "apparentTemperatureMax": 15.49,
+                        "apparentTemperatureMaxTime": 1619209620
+                    },
+                    {
+                        "time": 1619240400,
+                        "summary": "Mostly cloudy throughout the day.",
+                        "icon": "partly-cloudy-day",
+                        "sunriseTime": 1619262840,
+                        "sunsetTime": 1619312460,
+                        "moonPhase": 0.42,
+                        "precipIntensity": 0.0292,
+                        "precipIntensityMax": 0.1191,
+                        "precipIntensityMaxTime": 1619241000,
+                        "precipProbability": 0.18,
+                        "precipType": "rain",
+                        "temperatureHigh": 13.72,
+                        "temperatureHighTime": 1619293140,
+                        "temperatureLow": 0.87,
+                        "temperatureLowTime": 1619350920,
+                        "apparentTemperatureHigh": 13.44,
+                        "apparentTemperatureHighTime": 1619293140,
+                        "apparentTemperatureLow": -2.33,
+                        "apparentTemperatureLowTime": 1619350560,
+                        "dewPoint": 5.75,
+                        "humidity": 0.81,
+                        "pressure": 1016.6,
+                        "windSpeed": 4.45,
+                        "windGust": 13.46,
+                        "windGustTime": 1619247780,
+                        "windBearing": 352,
+                        "cloudCover": 0.66,
+                        "uvIndex": 3,
+                        "uvIndexTime": 1619292720,
+                        "visibility": 16.093,
+                        "ozone": 393.7,
+                        "temperatureMin": 5.3,
+                        "temperatureMinTime": 1619326800,
+                        "temperatureMax": 13.72,
+                        "temperatureMaxTime": 1619293140,
+                        "apparentTemperatureMin": 1.95,
+                        "apparentTemperatureMinTime": 1619326800,
+                        "apparentTemperatureMax": 13.44,
+                        "apparentTemperatureMaxTime": 1619293140
+                    }
+                ]
+            }
+        },
+        "weatherLatest": {
+            "message": "Success",
+            "data": {
+                "time": 1618696683,
+                "temperature": 15.91,
+                "apparentTemperature": 15.91,
+                "dewPoint": -2.16,
+                "humidity": 0.29,
+                "pressure": 1014.8,
+                "windSpeed": 5.27,
+                "windGust": 6.77,
+                "windBearing": 354,
+                "cloudCover": 0.31,
+                "visibility": 16.093,
+                "ozone": 388.9,
+                "lat": 42.0434796,
+                "lng": -92.0717042
+            }
+        },
+        "pollenLatest": {
+            "message": "Success",
+            "lat": 42.0434796,
+            "lng": -92.0717042,
+            "data": [
+                {
+                    "Count": {
+                        "grass_pollen": 1,
+                        "tree_pollen": 333,
+                        "weed_pollen": 2
+                    },
+                    "Risk": {
+                        "grass_pollen": "Low",
+                        "tree_pollen": "High",
+                        "weed_pollen": "Low"
+                    },
+                    "updatedAt": "2021-04-17T21:58:05.000Z"
+                }
+            ]
+        },
+
+        "airQualityHistory": {
+            "message": "Success",
+            "data": [
+                {
+                    "PM25": 4.879,
+                    "lat": 42.0194,
+                    "lng": -92.1046,
+                    "createdAt": "2021-04-17T02:00:00.000Z",
+                    "postalCode": "52346",
+                    "AQI": 20,
+                    "majorPollutant": "PM2.5"
+                }
+            ]
+        },
+        "pollenHistory": {
+            "message": "success",
+            "lat": 42.0434796,
+            "lng": -92.0717042,
+            "data": []
+        },
+        "waterVaporHistory": {
+            "message": "Data not available!",
+            "data": []
+        },
+        "soilHistory": {
+            "message": "Data not available!",
+            "data": []
+        },
+        "weatherHistory": {
+            "message": "Failed to fetch weather data for your location",
+            "weather": [],
+            "data": []
+        }
+    }
+}

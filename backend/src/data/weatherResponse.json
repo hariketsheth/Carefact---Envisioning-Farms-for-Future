@@ -1,0 +1,22 @@
+{
+    "from": "04/18/2021",
+    "to": "04/18/2021",
+    "weather": {
+        "status": "success",
+        "location": "Des Moines, IA, USA",
+        "forecast": [
+            {
+                "date": "04/18/2021",
+                "max_temp_high": 68,
+                "max_temp_low": 58,
+                "min_temp_code": "s",
+                "min_temp_high": 45,
+                "min_temp_low": 38,
+                "precipitation": "Generally Dry",
+                "precipitation_code": "DR2",
+                "temp": "seasonal",
+                "temp_code": "s"
+            }
+        ]
+    }
+}
