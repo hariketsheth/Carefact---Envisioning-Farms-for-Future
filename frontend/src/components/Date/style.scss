@@ -1,0 +1,12 @@
+.date {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 999;
+  height: 8vh;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28px;
+}

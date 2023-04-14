@@ -1,0 +1,60 @@
+.big-currently-selected {
+  background-position: top;
+  background-size: contain;
+  border-radius: 6px;
+  bottom: 1vh;
+  height: 44vh;
+  position: absolute;
+  right: calc(1vw - 1200px);
+  width: 18vw;
+
+  .information {
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    bottom: 0;
+    height: 70%;
+    padding: 10px;
+    position: absolute;
+
+    h1 {
+      color: white;
+      font-size: 24px;
+      font-weight: 500;
+      line-height: 100%;
+      margin: 0;
+    }
+    h2 {
+      color: white;
+      font-size: 18px;
+      font-weight: 300;
+      line-height: 100%;
+      margin: 0;
+      margin-bottom: 10px;
+    }
+    h3 {
+      color: white;
+      font-size: 14px;
+      line-height: 100%;
+      margin: 0;
+    }
+    p {
+      color: white;
+      font-size: 14px;
+      line-height: 100%;
+      font-weight: 300;
+      margin: 0;
+    }
+    
+    .section {
+      margin-bottom: 10px;
+
+      &.cost {
+        display: inline-block;
+        margin-right: 10px;
+      }
+      &.state {
+        display: inline-block;
+      }
+    }
+  }
+}
