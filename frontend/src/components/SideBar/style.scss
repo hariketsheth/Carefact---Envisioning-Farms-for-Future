@@ -1,0 +1,51 @@
+.side-bar {
+  align-items: center;
+  background-color: white;
+  border-bottom: 1px solid #DFDFDF;
+  border-radius: 0px 0px 50px 0px;
+  border-right: 1px solid #DFDFDF;
+  display: flex;
+  flex-wrap: wrap;
+  height: 100vh;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 5vw;
+  z-index: 1000;
+
+  .icons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+
+    .icon {
+      cursor: pointer;
+      text-align: center;
+      transition: 0.15s;
+      width: 100%;
+      margin: 10px 0px;
+
+
+      img {
+        width: 50%;
+      }
+
+      p {
+        font-weight: 500;
+        font-size: 12px;
+        margin-top: 0;
+      }
+
+      &:hover {
+        transform: scale(1.1);
+      }
+    }
+  }
+
+  .logo {
+    position: absolute;
+    top: 15px;
+  }
+}
