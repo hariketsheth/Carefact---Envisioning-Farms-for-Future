@@ -1,0 +1,51 @@
+.card {
+  background: #F9F9F9;
+  border: 1px solid #DFDFDF;
+  box-sizing: border-box;
+  border-radius: 4.35px;
+  height: 8vw;
+  padding-top: 10px;
+  width: 8vw;
+  margin-right: 1.4vw;
+  text-align: center;
+  opacity: 0;
+  position: relative;
+  top: 10px;
+
+  h1 {
+    margin: 0;
+    margin-bottom: 5px;
+    margin-top: 2vh;
+    font-size: 46px;
+    line-height: 100%;
+  }
+
+  .gradient {
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+  }
+
+  h2 {
+    margin: 0;
+    font-size: 20px;
+    line-height: 100%;
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+  }
+
+  h3 {
+    margin: 0;
+    line-height: 100%;
+  }
+
+  p {
+    font-size: 13px;
+    font-weight: 500;
+  }
+}

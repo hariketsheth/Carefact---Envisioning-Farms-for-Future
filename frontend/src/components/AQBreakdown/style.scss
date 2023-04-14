@@ -1,0 +1,15 @@
+.air-quality {
+    width: 300px;
+
+    .breakdown {
+        list-style-type: none;
+        padding: 0;
+
+        li {
+
+            div {
+                display: inline;
+            }
+        }
+    }
+}
