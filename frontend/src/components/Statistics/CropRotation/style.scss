@@ -1,0 +1,31 @@
+.CropRotation {
+    border: 2px solid #dfdfdf;
+    border-radius: 6px;
+    padding: 10px;
+    background-color: #F9F9F9;
+    margin: 10px;
+    width: 450px;
+
+    .buttons {
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    .forward {
+        background: #F9F9F9;
+        border-radius: 6px;
+        border: 2px solid #dfdfdf;
+        width: 20%;
+    }
+    .backward {
+        border: none;
+        background-color: #f9f9f9;
+        box-shadow: none;
+    }
+
+}

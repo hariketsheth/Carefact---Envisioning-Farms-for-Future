@@ -1,0 +1,63 @@
+.Breakdowns-Stats {
+  border: 2px solid #dfdfdf;
+  border-radius: 6px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  margin: 10px;
+  width: 470px;
+  height: 315px;
+
+  h3 {
+    font-size: 18px;
+  }
+
+  .subtitle {
+    margin: 0px;
+    margin-bottom: 12px;
+    line-height: 0px;
+  }
+
+  
+  .criteria {
+    margin: 0;
+    text-align: center;
+}
+
+  h1 {
+    font-size: 7.5em;
+  }
+
+  .row {
+    display: flex;
+    justify-content: space-between;
+
+    .grade {
+      width: 40%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 0px;
+      margin-top: 2vh;
+    }
+    .explanation {
+      width: 65%;
+      margin-top: 12px;
+      margin-top: 2vh;
+    }
+  }
+
+  .gradient {
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    margin-bottom: 0px;
+    line-height: 7rem;
+  }
+}
+
+.Breakdowns::-webkit-scrollbar {
+  display: none;
+}
