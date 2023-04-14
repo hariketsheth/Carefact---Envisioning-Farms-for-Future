@@ -1,0 +1,62 @@
+.timeline {
+  align-items: center;
+  background: #F9F9F9;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  bottom: -200px;
+  display: flex;
+  height: 9vh;
+  left: 6vw;
+  position: absolute;
+  width: 30vw;
+  z-index: 1;
+
+  .info {
+    display: flex;
+    width: 35%;
+    img {
+      padding: 0 10px;
+    }
+
+    .text {
+      h1 {
+        font-size: 22px;
+        font-weight: 500;
+        line-height: 100%;
+        margin: 0;
+      }
+
+      h2 {
+        font-size: 13px;
+        font-weight: 300;
+        line-height: 100%;
+        margin: 0;
+      }
+    }
+  }
+
+  .slider {
+    padding: 0 25px 0 20px;
+    width: 65%;
+  }
+
+  .label {
+    font-size: 12px;
+  }
+}
+
+.ant-slider-with-marks {
+  margin-bottom: 25px;
+}
+
+.ant-slider-dot-active {
+  border-color: #27AE60 !important;
+}
+
+.ant-slider-handle {
+  border: solid 2px #27AE60 !important;
+}
+
+.ant-slider-track {
+  background: #27AE60 !important;
+}
