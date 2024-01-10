@@ -32,11 +32,10 @@ Agriculture presently occupies one-third of the world's land surface. For a big 
 ## :sparkles:Take a look at our website 
 <p align="center">
 
-![image](https://user-images.githubusercontent.com/72455881/231967580-2790cbbe-1a09-4f5b-b5e6-f23945952e07.png)
+![Desktop - 6](https://github.com/hariketsheth/Carefact---Envisioning-Farms-for-Future/assets/72455881/a9d74e8f-8f53-45c8-abb9-be630cbcc87c)
 
-![image](https://user-images.githubusercontent.com/72455881/231967651-25d55bc4-de53-48c7-8429-def3feaf4083.png)
+![Desktop - 7](https://github.com/hariketsheth/Carefact---Envisioning-Farms-for-Future/assets/72455881/513fb53c-9ca4-49a4-bdd6-5ac4d7989e03)
 
-![image](https://user-images.githubusercontent.com/72455881/231967846-acc35dc0-3235-4c21-8606-46e2d4d4bba5.png)
 
 
 </p>
